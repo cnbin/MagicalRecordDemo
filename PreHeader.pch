@@ -1,0 +1,9 @@
+//
+//  PreHeader.pch
+//  MagicalRecordRecipes
+//
+//  Created by Apple on 11/23/15.
+//
+//
+
+#import "MagicalRecord.h"
